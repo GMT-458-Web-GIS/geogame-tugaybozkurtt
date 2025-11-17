@@ -68,7 +68,7 @@ Which JS library will be used?
 - Leaflet.js as the main mapping library
 - Optional: D3.js for path visualization or heatmaps
 
-  ┌───────────────────────────────────────────────────────────┐
+┌───────────────────────────────────────────────────────────┐
 │ TIME: 60s             COURIER GAME            SCORE: 0    │
 │                               LIVES: ♥ ♥ ♥                │
 ├───────────────────────────────────────────────────────────┤
