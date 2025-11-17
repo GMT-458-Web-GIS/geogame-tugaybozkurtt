@@ -72,20 +72,20 @@ Which JS library will be used?
 
 
 
-5. Sketch / Wireframe
+┌───────────────────────────────────────────────────────────┐
+│  TIME: 60s            COURIER GAME            SCORE: 0     │
+│                             LIVES: ♥ ♥ ♥                   │
+├───────────────────────────────────────────────────────────┤
+│                                                           │
+│                         [ MAP AREA ]                      │
+│                                                           │
+│    • Delivery Target (Marker)                             │
+│    • Player Position (Marker)                             │
+│                                                           │
+├───────────────────────────────────────────────────────────┤
+│        The next delivery target will be displayed here    │
+└───────────────────────────────────────────────────────────┘
 
-+-----------------------------------------------------------+
-|  TIME: 60s        COURIER GAME        SCORE: 0   LIVES: ❤❤❤ |
-+-----------------------------------------------------------+
-|                                                           |
-|                      [ MAP AREA ]                         |
-|                                                           |
-|   - Delivery Target (Marker)                              |
-|   - Player Position (Marker)                              |
-|                                                           |
-+-----------------------------------------------------------+
-|       The next delivery target will be displayed here     |
-+-----------------------------------------------------------+
 
                 [   START GAME   ]
 
