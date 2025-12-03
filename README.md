@@ -68,20 +68,8 @@ Which JS library will be used?
 - Leaflet.js as the main mapping library
 - Optional: D3.js for path visualization or heatmaps
 
-```
-█████████████████████████████████████████████████████████████
-█ TIME: 60s             COURIER GAME            SCORE: 0    █
-█                               LIVES: ♥ ♥ ♥                █
-█████████████████████████████████████████████████████████████
-█                                                           █
-█                         [ MAP AREA ]                      █
-█                                                           █
-█    • Delivery Target (Marker)                             █
-█    • Player Position (Marker)                             █
-█                                                           █
-█████████████████████████████████████████████████████████████
-█        The next delivery target will be displayed here    █
-█████████████████████████████████████████████████████████████
+<img width="1920" height="876" alt="abcd" src="https://github.com/user-attachments/assets/e2e0f075-29ac-4791-b04d-f61d211a3d52" />
+
 
 
 
