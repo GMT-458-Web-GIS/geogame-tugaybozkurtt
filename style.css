@@ -1,0 +1,50 @@
+/* Genel body stili */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+
+/* Top bar */
+#top-bar {
+    height: 50px;
+    background-color: #111827;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+    font-weight: bold;
+}
+
+/* Map alanı */
+#map {
+    width: 100%;
+    height: calc(100% - 100px);
+}
+
+/* Bottom bar */
+#bottom-bar {
+    height: 50px;
+    background-color: #111827;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+}
+
+/* Butonlar */
+#startBtn, #restartBtn {
+    background-color: #06b6d4;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#startBtn:hover, #restartBtn:hover {
+    background-color: #0284c7;
+}
